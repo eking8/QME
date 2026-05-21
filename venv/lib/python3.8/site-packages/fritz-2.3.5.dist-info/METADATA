@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: fritz
+Version: 2.3.5
+Summary: Fritz Machine Learning Library.
+Home-page: https://github.com/fritzlabs/fritz-python
+Author: Fritz Engineering
+Author-email: engineering@fritz.ai
+License: MIT
+Project-URL: Documentation, https://docs.fritz.ai/cli/index.html
+Project-URL: Source Code, https://github.com/fritzlabs/fritz-python
+Project-URL: Bug Tracker, https://github.com/fritzlabs/fritz-python/issues
+Keywords: machine learning,training,app development
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: click
+Requires-Dist: click-plugins
+Requires-Dist: termcolor
+Requires-Dist: pbxproj
+Requires-Dist: pybind11
+Provides-Extra: train
+Requires-Dist: keras ; extra == 'train'
+Requires-Dist: tensorflow ; extra == 'train'
+
+# Fritz CLI
+
+Mobile machine learning projects can be messy. By the time an app is ready to ship, it’s not uncommon to have trained hundreds of models experimenting with different architectures, hyperparameters, and formats. Keeping all of these assets organized for rapid prototyping and evaluation is the key to delivering better mobile apps in less time. The Fritz CLI lets you manage all of your mobile machine learning models and and easily evaluate their in-app performance right from your terminal.
+
+### Create a Fritz Account
+
+[Sign up for an account](https://app.fritz.ai/register) and [follow these directions](https://docs.fritz.ai/cli/index.html#install) in order to use the CLI.
+
+### Setup
+
+You can install the CLI tool with
+
+```
+$ pip install fritz
+$ fritz config update \
+    --api-key <Your API Key will be here> \
+    --project-id <Your Project ID will be here>
+```
+
+### Usage
+
+With the Fritz CLI, you can:
+
+- See all of the models you have trained and uploaded to Fritz.
+- View model configurations and metadata for any specific version of a model.
+- Upload and download model checkpoints to and from Fritz.
+- Deploy new model versions to a mobile app without releasing a new build.
+- Automatically set up a new Xcode or Android Studio project for mobile machine learning with Fritz.
+
+We’ve made all of these capabilities available directly from the command line to streamline your workflow and reduce the need to switch between tools.
+
+For more examples, visit [our docs site](https://docs.fritz.ai/cli/index.html).
+
+### Release Process
+
+1. Update version number in `setup.py` to `x.y.z`.
+1. Add an entry in `CHANGELOG.md` for version `x.y.z`.
+1. Commit those changes to `master`.
+1. Run `git tag -a x.y.z -m 'bump version x.y.z'`.
+1. Run `git push --tags`. We have a GitHub Action that watches for new tags.
+
+

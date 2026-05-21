@@ -1,0 +1,4099 @@
+[
+  {
+    "university": "Basilicata",
+    "base_url": "https://www.unibas.it",
+    "manual_roots": [
+      "https://www.unibas.it"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Bergamo",
+    "base_url": "https://www.unibg.it",
+    "manual_roots": [
+      "https://en.unibg.it/university/about-us/sustainability-at-unibg"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Chieti e Pescara",
+    "base_url": "https://www.unich.it",
+    "manual_roots": [
+      "https://www.unich.it"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Firenze",
+    "base_url": "https://www.unifi.it",
+    "manual_roots": [
+      "https://www.unifi.it/sites/default/files/2025-12/bilancio_sociale_sostenibilita_2024_eng.pdf"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 1,
+    "pdf_urls": [
+      "https://www.unifi.it/sites/default/files/2025-12/bilancio_sociale_sostenibilita_2024_eng.pdf"
+    ],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "minimal",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 1,
+    "word_count": 0
+  },
+  {
+    "university": "Foggia",
+    "base_url": "https://www.unifg.it",
+    "manual_roots": [
+      "https://www.unifg.it/en/third-mission/partnerships-and-collaborations/environmental-sustainability"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Insubria",
+    "base_url": "https://www.uninsubria.it",
+    "manual_roots": [
+      "https://www.uninsubria.eu/third-mission/uninsubria-and-society/uninsubria-sustainability"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2015,
+      2012
+    ],
+    "evidence_level": "none",
+    "top_terms": [
+      [
+        "uninsubria",
+        14
+      ],
+      [
+        "insubria",
+        7
+      ],
+      [
+        "programs",
+        6
+      ],
+      [
+        "services",
+        5
+      ],
+      [
+        "icona",
+        5
+      ],
+      [
+        "target",
+        5
+      ],
+      [
+        "immagine",
+        5
+      ],
+      [
+        "development",
+        5
+      ],
+      [
+        "locations",
+        4
+      ],
+      [
+        "cerca",
+        4
+      ],
+      [
+        "support",
+        4
+      ],
+      [
+        "enrollment",
+        4
+      ],
+      [
+        "sustainable",
+        4
+      ],
+      [
+        "contacts",
+        3
+      ],
+      [
+        "infostudenti",
+        3
+      ],
+      [
+        "quality",
+        3
+      ],
+      [
+        "library",
+        3
+      ],
+      [
+        "degree",
+        3
+      ],
+      [
+        "study",
+        3
+      ],
+      [
+        "projects",
+        3
+      ],
+      [
+        "calls",
+        3
+      ],
+      [
+        "researchers",
+        3
+      ],
+      [
+        "european",
+        3
+      ],
+      [
+        "society",
+        3
+      ],
+      [
+        "international",
+        3
+      ],
+      [
+        "tools",
+        3
+      ],
+      [
+        "goals",
+        3
+      ],
+      [
+        "studi",
+        2
+      ],
+      [
+        "values",
+        2
+      ],
+      [
+        "communication",
+        2
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 2,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 4330,
+    "word_count": 592
+  },
+  {
+    "university": "Cagliari",
+    "base_url": "https://www.unica.it",
+    "manual_roots": [
+      "https://en.unica.it/en/university/sustainability"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 2,
+    "pdf_urls": [
+      "https://en.unica.it/sites/international/files/2023-11/DR_Sistema_per_lo_sviluppo_sostenibile_di_Ateneo%20%281%29.pdf",
+      "https://en.unica.it/sites/international/files/2023-11/Presentazione_Report%20cosa%20%C3%A8%20stato%20fatto%202019-2022_integrato%20ult%20%281%29.pdf"
+    ],
+    "latest_year": 2025,
+    "all_years": [
+      2025,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2016,
+      2015,
+      2012,
+      2010
+    ],
+    "evidence_level": "minimal",
+    "top_terms": [
+      [
+        "unica",
+        75
+      ],
+      [
+        "ateneo",
+        50
+      ],
+      [
+        "cagliari",
+        48
+      ],
+      [
+        "https",
+        44
+      ],
+      [
+        "sostenibile",
+        35
+      ],
+      [
+        "attività",
+        26
+      ],
+      [
+        "sviluppo",
+        20
+      ],
+      [
+        "emissioni",
+        19
+      ],
+      [
+        "attraverso",
+        18
+      ],
+      [
+        "anche",
+        18
+      ],
+      [
+        "riduzione",
+        18
+      ],
+      [
+        "green",
+        17
+      ],
+      [
+        "campus",
+        17
+      ],
+      [
+        "gestione",
+        17
+      ],
+      [
+        "sulla",
+        17
+      ],
+      [
+        "studenti",
+        17
+      ],
+      [
+        "evidenze",
+        17
+      ],
+      [
+        "reterus",
+        17
+      ],
+      [
+        "ambientale",
+        16
+      ],
+      [
+        "servizi",
+        16
+      ],
+      [
+        "nelle",
+        16
+      ],
+      [
+        "rifiuti",
+        15
+      ],
+      [
+        "stata",
+        15
+      ],
+      [
+        "nella",
+        14
+      ],
+      [
+        "mobilità",
+        14
+      ],
+      [
+        "sociale",
+        14
+      ],
+      [
+        "atenei",
+        14
+      ],
+      [
+        "public",
+        13
+      ],
+      [
+        "servizio",
+        13
+      ],
+      [
+        "attuazione",
+        13
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 8,
+      "SDG5_Gender": 10,
+      "SDG7_Energy": 3,
+      "SDG11_Cities": 11,
+      "SDG12_Consumption": 2,
+      "SDG13_Climate": 1,
+      "SDG16_Governance": 2
+    },
+    "text_length": 64261,
+    "word_count": 8557
+  },
+  {
+    "university": "L'Aquila",
+    "base_url": "https://www.univaq.it",
+    "manual_roots": [
+      "https://www.univaq.it/section.php?id=2100"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020
+    ],
+    "evidence_level": "none",
+    "top_terms": [
+      [
+        "studenti",
+        25
+      ],
+      [
+        "ateneo",
+        24
+      ],
+      [
+        "sustainable",
+        18
+      ],
+      [
+        "about",
+        17
+      ],
+      [
+        "servizi",
+        12
+      ],
+      [
+        "ricerca",
+        12
+      ],
+      [
+        "development",
+        10
+      ],
+      [
+        "aquila",
+        9
+      ],
+      [
+        "goals",
+        9
+      ],
+      [
+        "modulistica",
+        9
+      ],
+      [
+        "internazionali",
+        9
+      ],
+      [
+        "personale",
+        8
+      ],
+      [
+        "utili",
+        8
+      ],
+      [
+        "internazionale",
+        7
+      ],
+      [
+        "univaq",
+        7
+      ],
+      [
+        "regolamenti",
+        7
+      ],
+      [
+        "promote",
+        7
+      ],
+      [
+        "lavoro",
+        6
+      ],
+      [
+        "didattica",
+        6
+      ],
+      [
+        "formazione",
+        6
+      ],
+      [
+        "attività",
+        6
+      ],
+      [
+        "inclusive",
+        6
+      ],
+      [
+        "sistema",
+        5
+      ],
+      [
+        "centro",
+        5
+      ],
+      [
+        "online",
+        5
+      ],
+      [
+        "studentesse",
+        5
+      ],
+      [
+        "bandi",
+        5
+      ],
+      [
+        "ensure",
+        5
+      ],
+      [
+        "government",
+        4
+      ],
+      [
+        "attivi",
+        4
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 2,
+      "SDG4_Education": 3,
+      "SDG5_Gender": 5,
+      "SDG7_Energy": 2,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 2,
+      "SDG16_Governance": 0
+    },
+    "text_length": 10324,
+    "word_count": 1427
+  },
+  {
+    "university": "Milano",
+    "base_url": "https://www.unimi.it",
+    "manual_roots": [
+      "https://www.unimi.it/en/university/la-statale/sustainability-university-milan"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Camerino",
+    "base_url": "https://www.unicam.it",
+    "manual_roots": [
+      "https://sbmv.unicam.it/en/research/environmental-sustainability"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2024,
+    "all_years": [
+      2024
+    ],
+    "evidence_level": "none",
+    "top_terms": [
+      [
+        "bioscienze",
+        6
+      ],
+      [
+        "veterinaria",
+        6
+      ],
+      [
+        "environmental",
+        5
+      ],
+      [
+        "scuola",
+        5
+      ],
+      [
+        "medicina",
+        5
+      ],
+      [
+        "segreteria",
+        5
+      ],
+      [
+        "sezione",
+        4
+      ],
+      [
+        "different",
+        4
+      ],
+      [
+        "docenti",
+        3
+      ],
+      [
+        "biodiversity",
+        3
+      ],
+      [
+        "unicam",
+        3
+      ],
+      [
+        "cerca",
+        2
+      ],
+      [
+        "portale",
+        2
+      ],
+      [
+        "learning",
+        2
+      ],
+      [
+        "online",
+        2
+      ],
+      [
+        "anthropic",
+        2
+      ],
+      [
+        "activities",
+        2
+      ],
+      [
+        "novel",
+        2
+      ],
+      [
+        "sustainable",
+        2
+      ],
+      [
+        "functional",
+        2
+      ],
+      [
+        "levels",
+        2
+      ],
+      [
+        "molecular",
+        2
+      ],
+      [
+        "ecosystem",
+        2
+      ],
+      [
+        "camerino",
+        2
+      ],
+      [
+        "matelica",
+        2
+      ],
+      [
+        "studenti",
+        2
+      ],
+      [
+        "appelli",
+        2
+      ],
+      [
+        "content",
+        1
+      ],
+      [
+        "ateneo",
+        1
+      ],
+      [
+        "close",
+        1
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 1,
+      "SDG16_Governance": 0
+    },
+    "text_length": 3122,
+    "word_count": 419
+  },
+  {
+    "university": "Marche Politecnica",
+    "base_url": "https://www.univpm.it",
+    "manual_roots": [
+      "https://www.univpm.it/Entra/Engine/RAServeFile.php/f/univpm_sostenibile/univpm_it_factfile_2024_full.pdf"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 1,
+    "pdf_urls": [
+      "https://www.univpm.it/Entra/Engine/RAServeFile.php/f/univpm_sostenibile/univpm_it_factfile_2024_full.pdf"
+    ],
+    "latest_year": 2024,
+    "all_years": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "minimal",
+    "top_terms": [
+      [
+        "total",
+        48
+      ],
+      [
+        "campus",
+        44
+      ],
+      [
+        "greenmetric",
+        41
+      ],
+      [
+        "world",
+        36
+      ],
+      [
+        "universities",
+        29
+      ],
+      [
+        "number",
+        28
+      ],
+      [
+        "water",
+        25
+      ],
+      [
+        "rankings",
+        24
+      ],
+      [
+        "score",
+        22
+      ],
+      [
+        "energy",
+        22
+      ],
+      [
+        "waste",
+        21
+      ],
+      [
+        "program",
+        20
+      ],
+      [
+        "sustainable",
+        18
+      ],
+      [
+        "ranking",
+        16
+      ],
+      [
+        "usage",
+        15
+      ],
+      [
+        "indicator",
+        13
+      ],
+      [
+        "change",
+        13
+      ],
+      [
+        "their",
+        13
+      ],
+      [
+        "infrastructure",
+        12
+      ],
+      [
+        "maximum",
+        12
+      ],
+      [
+        "climate",
+        12
+      ],
+      [
+        "divided",
+        12
+      ],
+      [
+        "vehicles",
+        12
+      ],
+      [
+        "related",
+        12
+      ],
+      [
+        "education",
+        11
+      ],
+      [
+        "percentage",
+        11
+      ],
+      [
+        "activities",
+        11
+      ],
+      [
+        "tcpdf",
+        10
+      ],
+      [
+        "global",
+        10
+      ],
+      [
+        "setting",
+        10
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 3,
+      "SDG4_Education": 11,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 27,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 27,
+      "SDG13_Climate": 18,
+      "SDG16_Governance": 0
+    },
+    "text_length": 22057,
+    "word_count": 3186
+  },
+  {
+    "university": "Milano Bicocca",
+    "base_url": "https://www.unimib.it",
+    "manual_roots": [
+      "https://en.unimib.it/about-us/bicocca-sustainability-project"
+    ],
+    "pages_scanned": 0,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": null,
+    "all_years": [],
+    "evidence_level": "none",
+    "top_terms": [],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 0,
+    "word_count": 0
+  },
+  {
+    "university": "Ferrara",
+    "base_url": "https://www.unife.it",
+    "manual_roots": [
+      "https://www.unife.it/studenti/dottorato/it/corsi/riforma/environmental-sustainability-and-wellbeing"
+    ],
+    "pages_scanned": 6,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2020,
+    "all_years": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "moderate",
+    "top_terms": [
+      [
+        "areas",
+        378
+      ],
+      [
+        "environmental",
+        360
+      ],
+      [
+        "italy",
+        294
+      ],
+      [
+        "urban",
+        246
+      ],
+      [
+        "professor",
+        246
+      ],
+      [
+        "social",
+        228
+      ],
+      [
+        "dipartimento",
+        228
+      ],
+      [
+        "ferrara",
+        204
+      ],
+      [
+        "focus",
+        198
+      ],
+      [
+        "studies",
+        192
+      ],
+      [
+        "development",
+        186
+      ],
+      [
+        "planning",
+        180
+      ],
+      [
+        "sustainable",
+        180
+      ],
+      [
+        "associate",
+        180
+      ],
+      [
+        "management",
+        168
+      ],
+      [
+        "environment",
+        150
+      ],
+      [
+        "climate",
+        144
+      ],
+      [
+        "cultural",
+        138
+      ],
+      [
+        "green",
+        126
+      ],
+      [
+        "change",
+        126
+      ],
+      [
+        "energy",
+        120
+      ],
+      [
+        "health",
+        120
+      ],
+      [
+        "analysis",
+        120
+      ],
+      [
+        "heritage",
+        114
+      ],
+      [
+        "methods",
+        108
+      ],
+      [
+        "humanities",
+        102
+      ],
+      [
+        "sciences",
+        102
+      ],
+      [
+        "activities",
+        102
+      ],
+      [
+        "physical",
+        102
+      ],
+      [
+        "european",
+        102
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 240,
+      "SDG4_Education": 198,
+      "SDG5_Gender": 54,
+      "SDG7_Energy": 168,
+      "SDG11_Cities": 288,
+      "SDG12_Consumption": 42,
+      "SDG13_Climate": 156,
+      "SDG16_Governance": 18
+    },
+    "text_length": 395556,
+    "word_count": 53526
+  },
+  {
+    "university": "Genova",
+    "base_url": "https://unige.it",
+    "manual_roots": [
+      "https://unigesostenibile.unige.it/en/Bilancio"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 6,
+    "pdf_urls": [
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/pagine/BS_2018-19_Sintesi.pdf",
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/dichiarazione-accessibilita.pdf",
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/2023-07/Bilancio%20di%20Sostenibilita%20UniGe%202017.pdf",
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/2023-07/Bil_Sost_2018-19.pdf",
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/2023-07/BS_2018-19_Sintesi.pdf",
+      "https://unigesostenibile.unige.it/sites/unigesostenibile.unige.it/files/pagine/Bil_Sost_2018-19.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "strong",
+    "top_terms": [
+      [
+        "ateneo",
+        729
+      ],
+      [
+        "unige",
+        528
+      ],
+      [
+        "studenti",
+        457
+      ],
+      [
+        "genova",
+        434
+      ],
+      [
+        "attività",
+        419
+      ],
+      [
+        "bilancio",
+        408
+      ],
+      [
+        "ricerca",
+        376
+      ],
+      [
+        "studi",
+        349
+      ],
+      [
+        "formazione",
+        310
+      ],
+      [
+        "corsi",
+        258
+      ],
+      [
+        "numero",
+        227
+      ],
+      [
+        "anche",
+        224
+      ],
+      [
+        "nella",
+        213
+      ],
+      [
+        "personale",
+        188
+      ],
+      [
+        "lavoro",
+        169
+      ],
+      [
+        "obiettivi",
+        145
+      ],
+      [
+        "emissioni",
+        143
+      ],
+      [
+        "studio",
+        139
+      ],
+      [
+        "stato",
+        138
+      ],
+      [
+        "sulla",
+        136
+      ],
+      [
+        "iscritti",
+        135
+      ],
+      [
+        "azioni",
+        131
+      ],
+      [
+        "genere",
+        130
+      ],
+      [
+        "rispetto",
+        124
+      ],
+      [
+        "servizi",
+        124
+      ],
+      [
+        "sviluppo",
+        123
+      ],
+      [
+        "hanno",
+        123
+      ],
+      [
+        "corso",
+        123
+      ],
+      [
+        "dalla",
+        122
+      ],
+      [
+        "questo",
+        119
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 6,
+      "SDG5_Gender": 38,
+      "SDG7_Energy": 38,
+      "SDG11_Cities": 28,
+      "SDG12_Consumption": 2,
+      "SDG13_Climate": 35,
+      "SDG16_Governance": 25
+    },
+    "text_length": 649431,
+    "word_count": 90149
+  },
+  {
+    "university": "Bari",
+    "base_url": "https://www.uniba.it",
+    "manual_roots": [
+      "https://www.uniba.it/en/university/university-overview/university-in-figures/sustainability"
+    ],
+    "pages_scanned": 8,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2026,
+    "all_years": [
+      2026
+    ],
+    "evidence_level": "moderate",
+    "top_terms": [
+      [
+        "please",
+        21
+      ],
+      [
+        "captcha",
+        14
+      ],
+      [
+        "behavior",
+        14
+      ],
+      [
+        "access",
+        14
+      ],
+      [
+        "using",
+        14
+      ],
+      [
+        "network",
+        14
+      ],
+      [
+        "request",
+        14
+      ],
+      [
+        "unblock",
+        14
+      ],
+      [
+        "radware",
+        7
+      ],
+      [
+        "apologize",
+        7
+      ],
+      [
+        "inconvenience",
+        7
+      ],
+      [
+        "activity",
+        7
+      ],
+      [
+        "think",
+        7
+      ],
+      [
+        "number",
+        7
+      ],
+      [
+        "things",
+        7
+      ],
+      [
+        "could",
+        7
+      ],
+      [
+        "going",
+        7
+      ],
+      [
+        "attempting",
+        7
+      ],
+      [
+        "anonymous",
+        7
+      ],
+      [
+        "private",
+        7
+      ],
+      [
+        "proxy",
+        7
+      ],
+      [
+        "disable",
+        7
+      ],
+      [
+        "accessing",
+        7
+      ],
+      [
+        "again",
+        7
+      ],
+      [
+        "previously",
+        7
+      ],
+      [
+        "detected",
+        7
+      ],
+      [
+        "malicious",
+        7
+      ],
+      [
+        "which",
+        7
+      ],
+      [
+        "originated",
+        7
+      ],
+      [
+        "incident",
+        7
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 0,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 1
+    },
+    "text_length": 5187,
+    "word_count": 721
+  },
+  {
+    "university": "Padova",
+    "base_url": "https://www.unipd.it",
+    "manual_roots": [
+      "https://www.sostenibile.unipd.it/en/commitment/sustainability-report/"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 14,
+    "pdf_urls": [
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2021/11/summary-sostenibilità-20_21.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2021/12/rapporto-sostenibilità-20_21.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2025/07/Summary-Rapporto-di-Sostenibilita_ITA_UniPD_2018.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2025/07/summary_ENG.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2022/01/WEB_Bilancio-SOSTENIBILITA_summary_EN_2020.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2024/02/Rapporto-di-sostenibilita-2022-2023.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2022/01/rapporto-sostenibilita-19_20_DEF.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2021/12/summary-sostenibilità-20_21_inglese_web.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2022/01/2020-11-09-SOSTENIBILITA_summary_2020_web.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2023/01/summary-sostenibilita-21_22_EN-affiancate-3.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2025/07/Rapporto_Sostenibilita_UniPD_2018.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2025/01/rapporto-sostenibilita-23_24-DEF.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2023/01/rapporto-sostenibilita-21_22.pdf",
+      "https://www.sostenibile.unipd.it/wp-content/uploads/2023/01/summary-sostenibilita-21_22_IT-affiancate.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "ateneo",
+        1450
+      ],
+      [
+        "padova",
+        1025
+      ],
+      [
+        "studenti",
+        699
+      ],
+      [
+        "sostenibile",
+        622
+      ],
+      [
+        "attività",
+        576
+      ],
+      [
+        "studentesse",
+        568
+      ],
+      [
+        "ricerca",
+        526
+      ],
+      [
+        "personale",
+        520
+      ],
+      [
+        "sviluppo",
+        441
+      ],
+      [
+        "unipd",
+        431
+      ],
+      [
+        "totale",
+        401
+      ],
+      [
+        "progetto",
+        393
+      ],
+      [
+        "rapporto",
+        390
+      ],
+      [
+        "corso",
+        356
+      ],
+      [
+        "studio",
+        355
+      ],
+      [
+        "genere",
+        342
+      ],
+      [
+        "anche",
+        341
+      ],
+      [
+        "comunità",
+        324
+      ],
+      [
+        "benessere",
+        313
+      ],
+      [
+        "nella",
+        312
+      ],
+      [
+        "hanno",
+        303
+      ],
+      [
+        "rispetto",
+        300
+      ],
+      [
+        "lavoro",
+        296
+      ],
+      [
+        "stato",
+        296
+      ],
+      [
+        "inclusione",
+        285
+      ],
+      [
+        "servizio",
+        278
+      ],
+      [
+        "azioni",
+        273
+      ],
+      [
+        "donne",
+        273
+      ],
+      [
+        "servizi",
+        271
+      ],
+      [
+        "sociale",
+        252
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 36,
+      "SDG4_Education": 85,
+      "SDG5_Gender": 448,
+      "SDG7_Energy": 88,
+      "SDG11_Cities": 110,
+      "SDG12_Consumption": 26,
+      "SDG13_Climate": 102,
+      "SDG16_Governance": 60
+    },
+    "text_length": 1335669,
+    "word_count": 188017
+  },
+  {
+    "university": "Parma",
+    "base_url": "https://www.unipr.it",
+    "manual_roots": [
+      "https://www.unipr.it/en/node/106422"
+    ],
+    "pages_scanned": 13,
+    "pdf_count": 4,
+    "pdf_urls": [
+      "https://www.unipr.it/sites/default/files/2026-02/Bilancio%20di%20genere%20di%20Ateneo%202022-2023.pdf",
+      "https://www.unipr.it/sites/default/files/allegatiparagrafo/09-11-2021/bilancio_di_genere_di_ateneo_2021.pdf",
+      "https://www.unipr.it/sites/default/files/2026-02/Bilancio%20di%20genere%20di%20Ateneo%202022-2023.pdf",
+      "https://www.unipr.it/sites/default/files/allegatiparagrafo/09-11-2021/bilancio_di_genere_di_ateneo_2021.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "genere",
+        882
+      ],
+      [
+        "donne",
+        736
+      ],
+      [
+        "uomini",
+        640
+      ],
+      [
+        "ateneo",
+        484
+      ],
+      [
+        "parma",
+        346
+      ],
+      [
+        "laurea",
+        338
+      ],
+      [
+        "scienze",
+        320
+      ],
+      [
+        "grafico",
+        271
+      ],
+      [
+        "rispetto",
+        228
+      ],
+      [
+        "corso",
+        226
+      ],
+      [
+        "femminile",
+        212
+      ],
+      [
+        "personale",
+        202
+      ],
+      [
+        "componente",
+        202
+      ],
+      [
+        "anche",
+        179
+      ],
+      [
+        "percentuale",
+        164
+      ],
+      [
+        "nella",
+        162
+      ],
+      [
+        "corsi",
+        154
+      ],
+      [
+        "bilancio",
+        152
+      ],
+      [
+        "valori",
+        149
+      ],
+      [
+        "studio",
+        146
+      ],
+      [
+        "azioni",
+        144
+      ],
+      [
+        "ciclo",
+        142
+      ],
+      [
+        "unico",
+        139
+      ],
+      [
+        "distribuzione",
+        139
+      ],
+      [
+        "percentuali",
+        132
+      ],
+      [
+        "analisi",
+        130
+      ],
+      [
+        "maschile",
+        128
+      ],
+      [
+        "nelle",
+        125
+      ],
+      [
+        "studenti",
+        122
+      ],
+      [
+        "ingegneria",
+        122
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 6,
+      "SDG4_Education": 9,
+      "SDG5_Gender": 73,
+      "SDG7_Energy": 15,
+      "SDG11_Cities": 6,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 14,
+      "SDG16_Governance": 40
+    },
+    "text_length": 492781,
+    "word_count": 71325
+  },
+  {
+    "university": "Salerno",
+    "base_url": "https://www.unisa.it",
+    "manual_roots": [
+      "https://www.unisa.it"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 0,
+    "pdf_urls": [],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025
+    ],
+    "evidence_level": "none",
+    "top_terms": [
+      [
+        "unisa",
+        15
+      ],
+      [
+        "maggio",
+        11
+      ],
+      [
+        "studio",
+        9
+      ],
+      [
+        "ateneo",
+        9
+      ],
+      [
+        "corsi",
+        8
+      ],
+      [
+        "ricerca",
+        8
+      ],
+      [
+        "studente",
+        6
+      ],
+      [
+        "studi",
+        6
+      ],
+      [
+        "campus",
+        6
+      ],
+      [
+        "opportunità",
+        6
+      ],
+      [
+        "scienze",
+        6
+      ],
+      [
+        "servizi",
+        5
+      ],
+      [
+        "salerno",
+        5
+      ],
+      [
+        "nuovo",
+        5
+      ],
+      [
+        "immatricolazioni",
+        5
+      ],
+      [
+        "vivere",
+        5
+      ],
+      [
+        "incarichi",
+        5
+      ],
+      [
+        "mobilità",
+        5
+      ],
+      [
+        "sicurezza",
+        4
+      ],
+      [
+        "personale",
+        4
+      ],
+      [
+        "scuola",
+        4
+      ],
+      [
+        "accademico",
+        4
+      ],
+      [
+        "aperte",
+        4
+      ],
+      [
+        "esplora",
+        4
+      ],
+      [
+        "presentazioni",
+        4
+      ],
+      [
+        "incontri",
+        4
+      ],
+      [
+        "informatica",
+        3
+      ],
+      [
+        "studenti",
+        3
+      ],
+      [
+        "placement",
+        3
+      ],
+      [
+        "tecnico",
+        3
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 1,
+      "SDG5_Gender": 1,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 0
+    },
+    "text_length": 6546,
+    "word_count": 922
+  },
+  {
+    "university": "Torino",
+    "base_url": "https://www.unito.it",
+    "manual_roots": [
+      "https://unifind.unito.it/resource/item/429752?language=en-US"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 1,
+    "pdf_urls": [
+      "https://iris.unito.it/retrieve/handle/2318/1742798/620375/2018-1%20ipejm%20sustainability%20management%20unito.pdf"
+    ],
+    "latest_year": 2018,
+    "all_years": [
+      2018
+    ],
+    "evidence_level": "minimal",
+    "top_terms": [
+      [
+        "unito",
+        4
+      ],
+      [
+        "management",
+        3
+      ],
+      [
+        "reporting",
+        3
+      ],
+      [
+        "outputs",
+        3
+      ],
+      [
+        "higher",
+        3
+      ],
+      [
+        "handle",
+        3
+      ],
+      [
+        "https",
+        3
+      ],
+      [
+        "torino",
+        2
+      ],
+      [
+        "projects",
+        2
+      ],
+      [
+        "people",
+        2
+      ],
+      [
+        "expertise",
+        2
+      ],
+      [
+        "skills",
+        2
+      ],
+      [
+        "fields",
+        2
+      ],
+      [
+        "organizations",
+        2
+      ],
+      [
+        "publication",
+        2
+      ],
+      [
+        "performance",
+        2
+      ],
+      [
+        "development",
+        2
+      ],
+      [
+        "level",
+        2
+      ],
+      [
+        "maurizio",
+        2
+      ],
+      [
+        "overview",
+        2
+      ],
+      [
+        "unifind",
+        1
+      ],
+      [
+        "content",
+        1
+      ],
+      [
+        "press",
+        1
+      ],
+      [
+        "enter",
+        1
+      ],
+      [
+        "academic",
+        1
+      ],
+      [
+        "article",
+        1
+      ],
+      [
+        "abstract",
+        1
+      ],
+      [
+        "years",
+        1
+      ],
+      [
+        "reports",
+        1
+      ],
+      [
+        "gradually",
+        1
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 1,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 1
+    },
+    "text_length": 1859,
+    "word_count": 242
+  },
+  {
+    "university": "Modena e Reggio Emilia",
+    "base_url": "https://www.unimore.it",
+    "manual_roots": [
+      "https://www.unimore.it"
+    ],
+    "pages_scanned": 40,
+    "pdf_count": 4,
+    "pdf_urls": [
+      "https://www.unimore.it/sites/default/files/2024-03/Sistema_di_Governo_di_Ateneo_revisione_settembre2023.pdf",
+      "https://www.unimore.it/sites/default/files/2024-07/Relazione%20TM%20Ateneo%202023.pdf",
+      "https://www.unimore.it/sites/default/files/2025-07/Relazione%20TM%202024.pdf",
+      "https://www.unimore.it/sites/default/files/2024-07/Relazione%20TM%20%20Ateneo%202022.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "unimore",
+        897
+      ],
+      [
+        "ricerca",
+        822
+      ],
+      [
+        "ateneo",
+        575
+      ],
+      [
+        "formazione",
+        277
+      ],
+      [
+        "reggio",
+        273
+      ],
+      [
+        "modena",
+        269
+      ],
+      [
+        "image",
+        254
+      ],
+      [
+        "emilia",
+        236
+      ],
+      [
+        "missione",
+        236
+      ],
+      [
+        "qualità",
+        213
+      ],
+      [
+        "https",
+        206
+      ],
+      [
+        "imprese",
+        196
+      ],
+      [
+        "public",
+        178
+      ],
+      [
+        "documenti",
+        175
+      ],
+      [
+        "servizi",
+        175
+      ],
+      [
+        "organizzazione",
+        174
+      ],
+      [
+        "engagement",
+        166
+      ],
+      [
+        "attività",
+        159
+      ],
+      [
+        "studenti",
+        157
+      ],
+      [
+        "cerca",
+        152
+      ],
+      [
+        "culturale",
+        130
+      ],
+      [
+        "bandi",
+        128
+      ],
+      [
+        "immatricolazioni",
+        128
+      ],
+      [
+        "brevetti",
+        128
+      ],
+      [
+        "progetti",
+        126
+      ],
+      [
+        "imprenditorialità",
+        123
+      ],
+      [
+        "corsi",
+        122
+      ],
+      [
+        "indirizzo",
+        121
+      ],
+      [
+        "commissionata",
+        120
+      ],
+      [
+        "notifica",
+        120
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 5,
+      "SDG4_Education": 66,
+      "SDG5_Gender": 23,
+      "SDG7_Energy": 2,
+      "SDG11_Cities": 9,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 0,
+      "SDG16_Governance": 27
+    },
+    "text_length": 382101,
+    "word_count": 50855
+  },
+  {
+    "university": "Roma Tre",
+    "base_url": "https://www.uniroma3.it",
+    "manual_roots": [
+      "https://www.uniroma3.it/int/about-us/sustainable-roma-tre/governance-sustainability/sustainability-report/"
+    ],
+    "pages_scanned": 31,
+    "pdf_count": 18,
+    "pdf_urls": [
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/nuovo-bilancio-sostenibilita-2024-low.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/Soustainability-report2023.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/bibliografia-sostenibilita-scienze-della-formazione.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/BAA_sostenibilita-def.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/bibliografia_sostenibilita_studi_politici.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/Bibliografia_Goal_GIU.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/Bibliografia-sostenibilita-BASBAT-aprile-2025-1.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/bibliografia-sostenibilita-economia.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/Bibliografia-sostenibilita-UMA.pdf",
+      "https://uniromatre.portaleamministrazionetrasparente.it/moduli/downloadFile.php?file=oggetto_allegati/2529615471587353460O__Osen2310.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/nuovo-bilancio-sostenibilita-2024-low.pdf",
+      "https://apps.uniroma3.it/ateneo/memo/files/pub_Locandina_2515a55b-dd29-4a0e-ae52-d3cdcd8c3ffc.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/lezione-zero-sost-2526-nuova.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/LEZIONE-ZERO-CORSO-2-2025-26.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/LEZIONE-ZERO-CORSO-1-2025-26.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/LEZIONE-ZERO-CORSO-3-2025-26.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/LEZIONE-ZERO-CORSO-4-2025-26.pdf",
+      "https://www.uniroma3.it/int/wp-content/uploads/file_locked/2026/03/Soustainability-report2023.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "ateneo",
+        673
+      ],
+      [
+        "attività",
+        528
+      ],
+      [
+        "studenti",
+        519
+      ],
+      [
+        "mobilità",
+        406
+      ],
+      [
+        "ricerca",
+        396
+      ],
+      [
+        "identifier",
+        355
+      ],
+      [
+        "lavoro",
+        315
+      ],
+      [
+        "studio",
+        291
+      ],
+      [
+        "studi",
+        278
+      ],
+      [
+        "sostenibile",
+        277
+      ],
+      [
+        "personale",
+        271
+      ],
+      [
+        "sviluppo",
+        253
+      ],
+      [
+        "presente",
+        242
+      ],
+      [
+        "programmes",
+        233
+      ],
+      [
+        "dipartimento",
+        221
+      ],
+      [
+        "anche",
+        220
+      ],
+      [
+        "obiettivi",
+        219
+      ],
+      [
+        "articolo",
+        197
+      ],
+      [
+        "sustainable",
+        195
+      ],
+      [
+        "qualità",
+        180
+      ],
+      [
+        "dalla",
+        179
+      ],
+      [
+        "obiettivo",
+        175
+      ],
+      [
+        "gruppo",
+        172
+      ],
+      [
+        "sulla",
+        170
+      ],
+      [
+        "azioni",
+        169
+      ],
+      [
+        "numero",
+        169
+      ],
+      [
+        "formazione",
+        167
+      ],
+      [
+        "attraverso",
+        163
+      ],
+      [
+        "parti",
+        162
+      ],
+      [
+        "didattica",
+        157
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 8,
+      "SDG4_Education": 157,
+      "SDG5_Gender": 166,
+      "SDG7_Energy": 58,
+      "SDG11_Cities": 92,
+      "SDG12_Consumption": 18,
+      "SDG13_Climate": 85,
+      "SDG16_Governance": 153
+    },
+    "text_length": 998450,
+    "word_count": 137790
+  },
+  {
+    "university": "Venezia Iuav",
+    "base_url": "https://www.iuav.it",
+    "manual_roots": [
+      "https://1future.feut.edu.al/wp-content/uploads/2023/11/1FUTURE-IUAV-Survey.pdf"
+    ],
+    "pages_scanned": 1,
+    "pdf_count": 1,
+    "pdf_urls": [
+      "https://1future.feut.edu.al/wp-content/uploads/2023/11/1FUTURE-IUAV-Survey.pdf"
+    ],
+    "latest_year": 2023,
+    "all_years": [
+      2023
+    ],
+    "evidence_level": "minimal",
+    "top_terms": [
+      [
+        "project",
+        25
+      ],
+      [
+        "related",
+        20
+      ],
+      [
+        "there",
+        19
+      ],
+      [
+        "survey",
+        17
+      ],
+      [
+        "issues",
+        16
+      ],
+      [
+        "results",
+        14
+      ],
+      [
+        "courses",
+        12
+      ],
+      [
+        "projects",
+        12
+      ],
+      [
+        "action",
+        11
+      ],
+      [
+        "curriculum",
+        11
+      ],
+      [
+        "development",
+        11
+      ],
+      [
+        "collaboration",
+        7
+      ],
+      [
+        "actions",
+        7
+      ],
+      [
+        "european",
+        6
+      ],
+      [
+        "union",
+        6
+      ],
+      [
+        "initiatives",
+        5
+      ],
+      [
+        "stakeholders",
+        5
+      ],
+      [
+        "management",
+        5
+      ],
+      [
+        "goals",
+        5
+      ],
+      [
+        "climate",
+        4
+      ],
+      [
+        "those",
+        4
+      ],
+      [
+        "within",
+        4
+      ],
+      [
+        "bachelor",
+        4
+      ],
+      [
+        "master",
+        4
+      ],
+      [
+        "postgraduate",
+        4
+      ],
+      [
+        "primarily",
+        4
+      ],
+      [
+        "individual",
+        4
+      ],
+      [
+        "detail",
+        4
+      ],
+      [
+        "between",
+        4
+      ],
+      [
+        "different",
+        4
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 0,
+      "SDG4_Education": 14,
+      "SDG5_Gender": 0,
+      "SDG7_Energy": 0,
+      "SDG11_Cities": 0,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 4,
+      "SDG16_Governance": 0
+    },
+    "text_length": 8058,
+    "word_count": 1087
+  },
+  {
+    "university": "Macerata",
+    "base_url": "https://www.unimc.it",
+    "manual_roots": [
+      "https://giurisprudenza.unimc.it/en/third-mission/sustainability"
+    ],
+    "pages_scanned": 11,
+    "pdf_count": 57,
+    "pdf_urls": [
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2024/ded_relazione-cpds_2024.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2019-2020/commpari_dg_l-14_l-39_lmg-01_lm-63_lm-87_2019.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2019-2020/commpari_ded_l-18_lm-77_2019.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2021-2022/relazione_cpds_dsu_2021_versione_compressa.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2018-2019/commpari_dsdfbct_l-1_l-15_l-19_lm-49_lm-85_lm-85bis_lm-89_2018.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2023/relazione_cpds_dsu_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2022/relazione_cpds_dspocri_2022.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2024/dsdfbct_relazione_cpds_2024.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2018-2019/commpari_dg_l-14_l-39_lmg-01_lm-63_lm-87_2018.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2023/relazione_cpds_dspocri_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2021-2022/relazione_cpds_dg_2021.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2023/relazione_cpds_dgiur_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2022/relazione_cpds_dg_2022.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/regolamento-didattico-di-ateneo.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2019-2020/commpari_dsu_l-5_l-10_l-11_l-12_lm-14_lm-15_lm-37_lm-38_lm-78_lm-84_2019.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/ateneoreg/nuoviregolamentisitoweb.al.06.3.2014/Regolamento.generale.di.organizzazione.diAteneo.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2022/relazione_cpds_ded_2022.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/documenti-cpds/relazione-cpds_spocri_2025.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2022/relazione_cpds_dsdfbct_2022.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2023/relazione_cpds_ded_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2018-2019/commpari_ded_l-18_lm-77_2018.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2021-2022/relazione_cpds_dspocri_2021.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/documenti-cpds/relazione_cpds_ded_2025.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/documenti-cpds/relazione_cpds_giur_2025.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2020-2021/relazione_cpds_sdfbct_2020.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2022/relazione-cpds_dsu_2022.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2021-2022/relazione_cpds_ded_2021_sito_rev1.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2020-2021/relazione_cpds_giur_2020.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/documenti-cpds/relazione_cpds_dsu_2025.pdf",
+      "https://www.unimc.it/it/qualita/sistemaAQ/documenti-linee-guida-per-i-processi-di-assicurazione-della-qualita-di-ateneo/lg_cpds_17_luglio_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2024/stum_relazione-cpds_2024.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2021-2022/relazione_cpds_dsdfbct_2021.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2018-2019/commpari_dspocri_l-20_l-36_lm-19_lm-52_lm-62_2018.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2019-2020/commpari_dspocri_l-20_l-36_lm-19_lm-52_lm-62_2019.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2020-2021/relazione_cpds_su_2020.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2020-2021/relazione_cpds_dspocri_2020.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2020-2021/relazione_cpds_ded_2020_versione_sito.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2023/relazione_cpds_dsdfbct_2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2019-2020/commpari_dsdfbct_l-1_l-15_l-19_lm-49_lm-85_lm-85bis_lm-89_2019.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/documenti-cpds/relazione_cpds_dsdfbct_2025.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2024/spocri_relazione-cpds_2024.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-2024/giuri_relazione-cpds_2024.pdf",
+      "https://www.unimc.it/it/qualita/qualita-didattica/aq-cds/relazioni-cpds/relazioni-cpds-a-a-2018-2019/commpari_dsu_l-5_l-10_l-11_l-12_lm-14_lm-15_lm-37_lm-38_lm-78_lm-84_2018.pdf",
+      "https://www.unimc.it/it/valorizzazione/progettazione-2/progetti-1/bibliografia-1.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/ateneoreg/nuoviregolamentisitoweb.al.06.3.2014/Regolamento.conferimento.assegni.ricerca.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/testo-reg-chiamate-prof-allegato-d-r-per-pubblicazione-ottobre-2019-3.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/testo-reg-rtd-allegato-d-r-pubblicazione-ottobre-2019-1.pdf",
+      "https://www.unimc.it/it/qualita/qualita-ricerca-terza-missione/delibera_all-_tabella_sinottica_area_a_e_b.pdf",
+      "https://www.unimc.it/it/qualita/qualita-ricerca-terza-missione/delibera_all_linee_guida_vtr_2021-2023.pdf",
+      "https://www.unimc.it/it/qualita/qualita-ricerca-terza-missione/delibera_97_del-27-11-2024.pdf",
+      "https://www.unimc.it/it/ateneo/normativa/regolamenti-di-ateneo/reg-unimc-spin-off-d-r-164-2019.pdf",
+      "https://www.unimc.it/it/career-service/terza-missione/d-r-n-209-del-6-6-2023-commissione-tecnica-spin-off-cts-nuova-composizione.pdf",
+      "https://giurisprudenza.unimc.it/it/site-news/didatticaintegrataseminariodiapertura.pdf",
+      "https://giurisprudenza.unimc.it/it/site-news/LocandinaCiRAMFSS2021.pdf",
+      "https://www.anvur.it/sites/default/files/2025-01/Decreto%20ministeriale%20n.1154%20del%2014-10-2021.pdf",
+      "https://www.unimc.it/it/qualita/sistemaAQ/documenti-linee-guida-per-i-processi-di-assicurazione-della-qualita-di-ateneo/lg_ptd_30_maggio_2023.pdf",
+      "https://www.unimc.it/it/qualita/politiche-aq/documenti-politiche-per-la-qualita/politiche_aq.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "studenti",
+        6248
+      ],
+      [
+        "corso",
+        3113
+      ],
+      [
+        "valutazione",
+        2597
+      ],
+      [
+        "anche",
+        2378
+      ],
+      [
+        "rispetto",
+        2296
+      ],
+      [
+        "frequentanti",
+        2282
+      ],
+      [
+        "ateneo",
+        2263
+      ],
+      [
+        "relazione",
+        2246
+      ],
+      [
+        "analisi",
+        2232
+      ],
+      [
+        "dipartimento",
+        2224
+      ],
+      [
+        "nella",
+        2140
+      ],
+      [
+        "studio",
+        2009
+      ],
+      [
+        "insegnamenti",
+        1823
+      ],
+      [
+        "didattica",
+        1783
+      ],
+      [
+        "insegnamento",
+        1762
+      ],
+      [
+        "docenti",
+        1604
+      ],
+      [
+        "corsi",
+        1583
+      ],
+      [
+        "quanto",
+        1583
+      ],
+      [
+        "criticità",
+        1567
+      ],
+      [
+        "attività",
+        1460
+      ],
+      [
+        "media",
+        1431
+      ],
+      [
+        "indicatori",
+        1423
+      ],
+      [
+        "commissione",
+        1332
+      ],
+      [
+        "laurea",
+        1295
+      ],
+      [
+        "modalità",
+        1252
+      ],
+      [
+        "questionari",
+        1251
+      ],
+      [
+        "esame",
+        1244
+      ],
+      [
+        "proposte",
+        1242
+      ],
+      [
+        "parte",
+        1235
+      ],
+      [
+        "sulla",
+        1186
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 3,
+      "SDG4_Education": 165,
+      "SDG5_Gender": 7,
+      "SDG7_Energy": 83,
+      "SDG11_Cities": 5,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 2,
+      "SDG16_Governance": 9
+    },
+    "text_length": 4818452,
+    "word_count": 686448
+  },
+  {
+    "university": "Piemonte Orientale",
+    "base_url": "https://www.uniupo.it",
+    "manual_roots": [
+      "https://www.uniupo.it/en/third-mission/sustainable-upo"
+    ],
+    "pages_scanned": 40,
+    "pdf_count": 14,
+    "pdf_urls": [
+      "https://www.uniupo.it/sites/default/files/2020-12/05PIANO%20DI%20COMUNICAZIONE_DEF.pdf",
+      "https://www.uniupo.it/sites/default/files/PIAO_2022-2024_0.pdf",
+      "https://www.uniupo.it/sites/default/files/Terza%20Missione%202019_2021%20scheda%20def.pdf",
+      "https://www.uniupo.it/sites/default/files/2024-06/PATMAD%202024%20_%20Verbale_firmato.pdf",
+      "https://uniupo.it/sites/default/files/2025-06/PATMA%20e%20PATMAD%202025.pdf",
+      "https://www.uniupo.it/sites/default/files/P.E.B.A_compressed.pdf",
+      "https://www.unhcr.it/wp-content/uploads/2019/11/Manifesto-dellUniversita-inclusiva_UNHCR.pdf)",
+      "https://www.uniupo.it/sites/default/files/2024-09/P.E.B.A_compressed.pdf",
+      "https://www.uniupo.it/sites/default/files/2024-11/Bilancio%20di%20Genere%202023_web_0.pdf",
+      "https://www.uniupo.it/sites/default/files/2023-09/Bilancio%20di%20Genere%20UPO%202022%20pagine%20singole%20%282%29.pdf",
+      "https://www.uniupo.it/sites/default/files/2022-09/Bilnacio%20di%20Genere%202021.pdf",
+      "https://www.uniupo.it/sites/default/files/2021-08/Bilancio%20di%20genere%202020%20DEF.pdf",
+      "https://www.uniupo.it/sites/default/files/2025-06/PATMA%20e%20PATMAD%202025.pdf",
+      "https://www.uniupo.it/sites/default/files/2024-06/PATMAD%202024%20_%20Verbale_firmato_0.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "orientale",
+        3767
+      ],
+      [
+        "piemonte",
+        3666
+      ],
+      [
+        "piano",
+        2360
+      ],
+      [
+        "pavimento",
+        1666
+      ],
+      [
+        "edificio",
+        1506
+      ],
+      [
+        "fornitura",
+        1365
+      ],
+      [
+        "barriere",
+        1308
+      ],
+      [
+        "eliminazione",
+        1291
+      ],
+      [
+        "codice",
+        1286
+      ],
+      [
+        "architettoniche",
+        1286
+      ],
+      [
+        "orientamento",
+        1216
+      ],
+      [
+        "tattile",
+        1048
+      ],
+      [
+        "livello",
+        1046
+      ],
+      [
+        "percorsi",
+        1036
+      ],
+      [
+        "costo",
+        1025
+      ],
+      [
+        "installazione",
+        1018
+      ],
+      [
+        "ruote",
+        1000
+      ],
+      [
+        "genere",
+        985
+      ],
+      [
+        "persone",
+        954
+      ],
+      [
+        "sedia",
+        944
+      ],
+      [
+        "ateneo",
+        921
+      ],
+      [
+        "donne",
+        910
+      ],
+      [
+        "scienze",
+        907
+      ],
+      [
+        "individuare",
+        837
+      ],
+      [
+        "tattilo",
+        828
+      ],
+      [
+        "uomini",
+        821
+      ],
+      [
+        "accessibilità",
+        785
+      ],
+      [
+        "porta",
+        758
+      ],
+      [
+        "novara",
+        726
+      ],
+      [
+        "intervento",
+        703
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 115,
+      "SDG4_Education": 92,
+      "SDG5_Gender": 250,
+      "SDG7_Energy": 83,
+      "SDG11_Cities": 45,
+      "SDG12_Consumption": 12,
+      "SDG13_Climate": 23,
+      "SDG16_Governance": 82
+    },
+    "text_length": 3124627,
+    "word_count": 457844
+  },
+  {
+    "university": "Bologna",
+    "base_url": "https://www.unibo.it",
+    "manual_roots": [
+      "https://magazine.unibo.it/en/articles/the-2025-sustainability-report-of-the-university-of-bologna-is-now-online"
+    ],
+    "pages_scanned": 13,
+    "pdf_count": 29,
+    "pdf_urls": [
+      "https://www.unibo.it/en/attachments/BilanciodiSostenibilit2025_en.pdf/@@download/file/Bilancio di Sostenibilita 2025_en.pdf",
+      "https://www.unibo.it/en/attachments/TavoladirendicontazioneGRI_en.pdf/@@download/file/TavoladirendicontazioneGRI_en.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/sustainability-report-archive/sustainability-report-2024/@@download/file/BS ENG_2024.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/sustainability-report-archive/sustainability-report-2022-in-english/@@download/file/Bilancio Sostenibilita 2022_EN.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/sustainability-report-archive/sustainability-report-2022-in-spanish/@@download/file/Bilancio-Sostenibilita-2022_SP.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/sustainability-report-archive/sustainability-report-2022-in-italian/@@download/file/BilancioSostenibilità2022.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-di-sostenibilita/bilancio-di-sostenibilita-2025/@@download/file/Bilancio di Sostenibilita 2025.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-di-sostenibilita/tavola-di-rendicontazione-gri/@@download/file/Tavola di rendicontazione GRI.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals-2019/@@download/file/UN-SDGS-2019.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals/@@download/file/Reporting on United Nations Sustainable Development Goals.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals-2021/@@download/file/18ott_SDGS 2021 def.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals-2017/@@download/file/Reporting-United-Nations-Sustainable-Development-Goals .pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals-2018/@@download/file/AlmaGOALS - Report SDGs 2018.pdf",
+      "https://www.unibo.it/en/university/statute-standards-strategies-and-reports/sustainability-report/reporting-on-united-nations-sustainable-development-goals/reporting-on-united-nations-sustainable-development-goals-2020/@@download/file/REPORT SDGS 2020 per web.pdf",
+      "https://www.unibo.it/en/attachments/BilanciodiSostenibilit2025_en.pdf/@@download/file/Bilancio di Sostenibilita 2025_en.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2015/@@download/file/BilancioSociale2015INTERATTIVO_definitivo.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2021/@@download/file/Bilancio-Sociale-2021.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2017/@@download/file/BILANCIO SOCIALE 2017 - light x web.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2016/@@download/file/Bilancio-Sociale-2016-Universita-Bologna.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2020/@@download/file/BILANCIO SOCIALE 2020.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2014/@@download/file/BilanciosocialeUniversitadiBologna2014.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2018/@@download/file/BILANCIO SOCIALE 2018_light_per_web.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2013/@@download/file/Bilancio-Sociale-Università-Bologna-2013.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/executive-summary-bilancio-sociale-2015/@@download/file/Executivesummary2015_low.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2019/@@download/file/BILANCIO-SOCIALE-2019.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/bilancio-sociale-universita-di-bologna-2012/@@download/file/BilancioSocialeUnibo2012.pdf",
+      "https://www.unibo.it/it/ateneo/statuto-norme-strategie-bilanci/bilancio-di-sostenibilita/archivio-bilancio-sociale/executive-summary-bilancio-sociale-2014/@@download/file/ExecutivesummaryBilanciosociale2014.pdf",
+      "https://www.unibo.it/en/attachments/university-energy-plan-in-italian/@@download/file/University-Energy-Plan.pdf",
+      "https://www.unibo.it/en/attachments/ErogatoriAcquaMicrofiltrataInstallazioniCompletate.pdf/@@download/file/ErogatoriAcquaMicrofiltrataInstallazioniCompletate.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "bologna",
+        5396
+      ],
+      [
+        "ateneo",
+        4759
+      ],
+      [
+        "ricerca",
+        3978
+      ],
+      [
+        "attività",
+        3661
+      ],
+      [
+        "studenti",
+        3589
+      ],
+      [
+        "personale",
+        2871
+      ],
+      [
+        "sociale",
+        2272
+      ],
+      [
+        "bilancio",
+        2078
+      ],
+      [
+        "mater",
+        1984
+      ],
+      [
+        "studio",
+        1904
+      ],
+      [
+        "corsi",
+        1879
+      ],
+      [
+        "formazione",
+        1747
+      ],
+      [
+        "servizi",
+        1713
+      ],
+      [
+        "campus",
+        1676
+      ],
+      [
+        "anche",
+        1579
+      ],
+      [
+        "nella",
+        1561
+      ],
+      [
+        "sviluppo",
+        1431
+      ],
+      [
+        "unibo",
+        1415
+      ],
+      [
+        "lavoro",
+        1289
+      ],
+      [
+        "laurea",
+        1287
+      ],
+      [
+        "didattica",
+        1248
+      ],
+      [
+        "figura",
+        1246
+      ],
+      [
+        "progetti",
+        1221
+      ],
+      [
+        "energy",
+        1173
+      ],
+      [
+        "romagna",
+        1161
+      ],
+      [
+        "figure",
+        1156
+      ],
+      [
+        "totale",
+        1155
+      ],
+      [
+        "staff",
+        1147
+      ],
+      [
+        "servizio",
+        1143
+      ],
+      [
+        "valutazione",
+        1135
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 690,
+      "SDG4_Education": 1743,
+      "SDG5_Gender": 875,
+      "SDG7_Energy": 1512,
+      "SDG11_Cities": 704,
+      "SDG12_Consumption": 244,
+      "SDG13_Climate": 415,
+      "SDG16_Governance": 433
+    },
+    "text_length": 8477850,
+    "word_count": 1212461
+  },
+  {
+    "university": "Milano Politecnico",
+    "base_url": "https://www.polimi.it",
+    "manual_roots": [
+      "https://www.polimi.it/en/the-politecnico/about-polimi/strategic-documents/sustainability-plan"
+    ],
+    "pages_scanned": 40,
+    "pdf_count": 44,
+    "pdf_urls": [
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2021_10_13_POLITECNICO_SDGs_report_2021.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilit%C3%A0_SDGsReport2023_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilit%C3%A0_AGG24_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Stories_of_Cooperation_at_Polimi_2017-2021.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/POLITECNICO_SDGs_report_2022_xWeb.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/SDGs_Report_2024.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Linee_guida_sostenibilita_digitale_-_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/RapportoSostenibilit%C3%A025_aff_ENG__1_.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilita_AGG25_EN.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoSostenibilit%C3%A026-28_agg_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2023_25_ENG_Piano_strategico.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2021_10_22_POLITECNICO_bilancio_sostenib_2021_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PSS_AGG25_RS24.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2021_10_22_bilancio_sostenib_ita.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/RapportoSostenibilit%C3%A025_aff.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2021_10_12_POLITECNICO_SDGs_report_2021_ITA.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2023_25_Piano_strategico_sostenibilita.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Linee_guida_sostenibilita_digitale.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoSostenibilit%C3%A026-28_agg.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilit%C3%A0_AGG24_FIN.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Rapporto_di_sostenibilita_2022_v2.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilit%C3%A0_AGG24_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Linee_guida_sostenibilita_digitale_-_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2023_25_ENG_Piano_strategico.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/SDGs_Report_2024.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/2021_10_22_POLITECNICO_bilancio_sostenib_2021_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-mitigazione-emissioni/PdM_Light_2025.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-mitigazione-emissioni/Piano_mitigazione_emissioni_2024.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-mitigazione-emissioni/PdM_2019.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoSostenibilit%C3%A026-28_agg_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/Stories_of_Cooperation_at_Polimi_2017-2021.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilit%C3%A0_SDGsReport2023_ENG.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/BIOLOOP_FACTORY_eng.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/PsAward2024_VERBALE_VALUTAZIONE.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/SOSpesa__eng.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/IN_BIBLIO_eng.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/METHEXIS20_eng.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/PROXIMO_eng_v2.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/ECHOES-Nosedo_eng_v2.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/Bando-Polisocial-Award-2024.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Sviluppo-sostenibile/polisocial-award/schede-progetti-2024/ART-Link_eng.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/POLITECNICO_SDGs_report_2022_xWeb.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/RapportoSostenibilit%C3%A025_aff_ENG__1_.pdf",
+      "https://www.polimi.it/fileadmin/user_upload/Il-Politecnico/documenti-strategici/piano-strategico-sostenibilita/PianoStrategicoSostenibilita_AGG25_EN.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "politecnico",
+        5136
+      ],
+      [
+        "milano",
+        3921
+      ],
+      [
+        "development",
+        2975
+      ],
+      [
+        "campus",
+        2630
+      ],
+      [
+        "sustainable",
+        2464
+      ],
+      [
+        "ateneo",
+        1871
+      ],
+      [
+        "activities",
+        1842
+      ],
+      [
+        "polimi",
+        1740
+      ],
+      [
+        "strategic",
+        1664
+      ],
+      [
+        "actions",
+        1542
+      ],
+      [
+        "piano",
+        1527
+      ],
+      [
+        "projects",
+        1432
+      ],
+      [
+        "energy",
+        1381
+      ],
+      [
+        "international",
+        1334
+      ],
+      [
+        "teaching",
+        1302
+      ],
+      [
+        "innovation",
+        1288
+      ],
+      [
+        "staff",
+        1237
+      ],
+      [
+        "training",
+        1229
+      ],
+      [
+        "ricerca",
+        1219
+      ],
+      [
+        "emissioni",
+        1206
+      ],
+      [
+        "social",
+        1177
+      ],
+      [
+        "support",
+        1165
+      ],
+      [
+        "initiatives",
+        1162
+      ],
+      [
+        "which",
+        1155
+      ],
+      [
+        "sviluppo",
+        1153
+      ],
+      [
+        "education",
+        1140
+      ],
+      [
+        "project",
+        1110
+      ],
+      [
+        "sostenibile",
+        1103
+      ],
+      [
+        "services",
+        1094
+      ],
+      [
+        "attività",
+        1094
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 720,
+      "SDG4_Education": 2904,
+      "SDG5_Gender": 2187,
+      "SDG7_Energy": 1716,
+      "SDG11_Cities": 1239,
+      "SDG12_Consumption": 992,
+      "SDG13_Climate": 1330,
+      "SDG16_Governance": 577
+    },
+    "text_length": 5898352,
+    "word_count": 838209
+  },
+  {
+    "university": "Torino Politecnico",
+    "base_url": "https://www.polito.it",
+    "manual_roots": [
+      "https://www.polito.it/en/polito/sustainable-campus/reports-and-documents"
+    ],
+    "pages_scanned": 39,
+    "pdf_count": 28,
+    "pdf_urls": [
+      "https://www.polito.it/sites/default/files/2025-02/WEB_PIANO_STRATEGICO_ITA_web_10-12.pdf",
+      "https://www.polito.it/sites/default/files/2024-10/comunicazione_SITO%20-%20cosa_puoi_fare_tu%20-%20EN%202024_0.pdf",
+      "https://www.polito.it/sites/default/files/2023-03/GT_Report%20Polito%20Sostenibile%202021.pdf",
+      "https://www.polito.it/sites/default/files/2025-02/Indicazioni%20per%20lauree%20sostenibili_0.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_Documento%20Programmatico%20Green%20Team%202017.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2016.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2020.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2019.pdf",
+      "https://www.polito.it/sites/default/files/2023-12/GT_Report%20Polito%20Sostenibile%202022.pdf",
+      "https://www.polito.it/sites/default/files/2024-06/PdD_CdA_giu2024_EN.pdf",
+      "https://www.polito.it/sites/default/files/2024-05/GT_Report%20Polito%20Sostenibile%202022_EN.pdf",
+      "https://www.polito.it/sites/default/files/2023-10/Report%20Polito%20Sostenibile%202021.pdf",
+      "https://www.polito.it/sites/default/files/2025-02/Indicazioni%20per%20lauree%20sostenibili_eng.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2020.pdf",
+      "https://www.polito.it/sites/default/files/2025-03/01%20-%20Piano%20Strategico%20di%20Ateneo%202024-2030.pdf",
+      "https://www.polito.it/sites/default/files/2026-04/allegato%20sito_piano%20decarbo%20IT.pdf",
+      "https://www.polito.it/sites/default/files/2026-04/allegato%20sito_inventario%20emissioni%20IT.pdf",
+      "https://www.polito.it/sites/default/files/2024-05/GT_Report%20Polito%20Sostenibile%202022_EN.pdf",
+      "https://www.polito.it/sites/default/files/2024-06/PdD_CdA_giu2024_IT.pdf",
+      "https://www.polito.it/sites/default/files/2026-04/allegato%20sito_piano%20decarbo%20EN_0.pdf",
+      "https://www.polito.it/sites/default/files/2023-10/Report%20Polito%20Sostenibile%202021.pdf",
+      "https://www.polito.it/sites/default/files/2025-02/Indicazioni%20per%20lauree%20sostenibili_eng.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2019.pdf",
+      "https://www.polito.it/sites/default/files/2025-05/PolitoSust_Bookcrossing%20elenco%20libri_0.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_Documento%20Programmatico%20Green%20Team%202017.pdf",
+      "https://www.polito.it/sites/default/files/2026-01/BANDO%20Candidature%20Student%20Sustainability%20Hub%20del%20PoliTo.pdf",
+      "https://www.polito.it/sites/default/files/2022-10/GT_PoliTO-SustainablePath-Report2016.pdf",
+      "https://www.polito.it/sites/default/files/2026-04/allegato%20sito_inventario%20emissioni%20EN_0.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "polito",
+        1334
+      ],
+      [
+        "politecnico",
+        1059
+      ],
+      [
+        "ateneo",
+        895
+      ],
+      [
+        "torino",
+        780
+      ],
+      [
+        "campus",
+        742
+      ],
+      [
+        "sustainable",
+        632
+      ],
+      [
+        "green",
+        605
+      ],
+      [
+        "ricerca",
+        555
+      ],
+      [
+        "energy",
+        500
+      ],
+      [
+        "report",
+        461
+      ],
+      [
+        "education",
+        404
+      ],
+      [
+        "attività",
+        403
+      ],
+      [
+        "sostenibile",
+        401
+      ],
+      [
+        "sviluppo",
+        365
+      ],
+      [
+        "international",
+        358
+      ],
+      [
+        "social",
+        333
+      ],
+      [
+        "mobility",
+        319
+      ],
+      [
+        "activities",
+        291
+      ],
+      [
+        "impact",
+        288
+      ],
+      [
+        "development",
+        282
+      ],
+      [
+        "anche",
+        261
+      ],
+      [
+        "comunità",
+        258
+      ],
+      [
+        "universities",
+        258
+      ],
+      [
+        "qualità",
+        246
+      ],
+      [
+        "studenti",
+        246
+      ],
+      [
+        "azioni",
+        242
+      ],
+      [
+        "which",
+        239
+      ],
+      [
+        "innovation",
+        235
+      ],
+      [
+        "about",
+        227
+      ],
+      [
+        "quality",
+        223
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 47,
+      "SDG4_Education": 655,
+      "SDG5_Gender": 255,
+      "SDG7_Energy": 557,
+      "SDG11_Cities": 472,
+      "SDG12_Consumption": 247,
+      "SDG13_Climate": 485,
+      "SDG16_Governance": 133
+    },
+    "text_length": 1458070,
+    "word_count": 206988
+  },
+  {
+    "university": "Urbino",
+    "base_url": "https://www.uniurb.it",
+    "manual_roots": [
+      "https://www.uniurb.it"
+    ],
+    "pages_scanned": 40,
+    "pdf_count": 11,
+    "pdf_urls": [
+      "https://studiaconnoi.uniurb.it/gest/wp-content/files_mf/1694417105modulorichiestacertificati.pdf",
+      "https://adobeindd.com/view/publications/71d87e57-e29d-4d30-a14d-c1925f05f9ce/hei5/publication-web-resources/pdf/aziende-universita-definitivo.pdf",
+      "http://terzamissione.uniurb.it/gest/wp-content/uploads/2025/12/2024_Compagine_Pubblicato.pdf",
+      "http://blog.uniurb.it/wp-content/uploads/2026/04/Convocazione_CdA_24_aprile_2026_integrazione.pdf",
+      "http://blog.uniurb.it/wp-content/uploads/2026/04/Convocazione_riunione_congiunta_SA_NDV.pdf",
+      "http://blog.uniurb.it/wp-content/uploads/2026/04/Convocazione_SA_24_aprile-2026_Integrazione.pdf",
+      "http://blog.uniurb.it/wp-content/uploads/2026/04/Convocazione_SA_24_aprile_2026.pdf",
+      "http://blog.uniurb.it/wp-content/uploads/2026/04/Convocazione_CdA_24_aprile_2026.pdf",
+      "http://terzamissione.uniurb.it/gest/wp-content/uploads/2025/03/Slides_PE2024_DEF.pdf",
+      "http://terzamissione.uniurb.it/gest/wp-content/uploads/2026/04/Slides_PE2025_DEF_2026.pdf",
+      "http://terzamissione.uniurb.it/gest/wp-content/uploads/2025/02/DR-573_2024-del-5-settembre-2024.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "urbino",
+        411
+      ],
+      [
+        "ateneo",
+        334
+      ],
+      [
+        "uniurb",
+        321
+      ],
+      [
+        "ricerca",
+        316
+      ],
+      [
+        "accedi",
+        313
+      ],
+      [
+        "sportello",
+        308
+      ],
+      [
+        "studenti",
+        285
+      ],
+      [
+        "webcam",
+        274
+      ],
+      [
+        "attività",
+        263
+      ],
+      [
+        "piattaforma",
+        236
+      ],
+      [
+        "elettronica",
+        236
+      ],
+      [
+        "segreteria",
+        235
+      ],
+      [
+        "posta",
+        234
+      ],
+      [
+        "didattica",
+        226
+      ],
+      [
+        "servizi",
+        223
+      ],
+      [
+        "saffi",
+        212
+      ],
+      [
+        "meteo",
+        196
+      ],
+      [
+        "vista",
+        196
+      ],
+      [
+        "iniziative",
+        194
+      ],
+      [
+        "partecipazione",
+        194
+      ],
+      [
+        "missione",
+        194
+      ],
+      [
+        "informazioni",
+        186
+      ],
+      [
+        "personale",
+        181
+      ],
+      [
+        "studi",
+        175
+      ],
+      [
+        "modulo",
+        166
+      ],
+      [
+        "direzione",
+        166
+      ],
+      [
+        "dalle",
+        165
+      ],
+      [
+        "scientifico",
+        164
+      ],
+      [
+        "servizio",
+        163
+      ],
+      [
+        "appuntamento",
+        161
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 11,
+      "SDG4_Education": 74,
+      "SDG5_Gender": 17,
+      "SDG7_Energy": 41,
+      "SDG11_Cities": 26,
+      "SDG12_Consumption": 0,
+      "SDG13_Climate": 1,
+      "SDG16_Governance": 39
+    },
+    "text_length": 579332,
+    "word_count": 79994
+  },
+  {
+    "university": "Tuscia",
+    "base_url": "https://www.unitus.it",
+    "manual_roots": [
+      "https://www.unitus.it/en/third-mission/social-inclusion-and-sustainability/"
+    ],
+    "pages_scanned": 40,
+    "pdf_count": 157,
+    "pdf_urls": [
+      "https://old.unitus.it/public/platforms/12/cke_contents/1493/8f11e692-aabf-44c7-94cd-4b74ebceb76b_AULE%20sfa-lm.pdf",
+      "https://old.unitus.it/public/contenuti/ExJSite/Ufficio%20Legale/reg_to%20did_%20DIBAF%20LM%20scienze%20ambien_%20e%20forestali%20Pdf-A.pdf",
+      "https://www.unitus.it/wp-content/uploads/2025/04/Forestry-and-environmental-sciences-Ing.pdf",
+      "https://old.unitus.it/public/platforms/12/cke_contents/778/81c0c350-5056-44ea-ac71-c108377b12ce_Department_Thesis_v2.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/130/SP%20consuntivo%202018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/1b00cc61-c83b-4bdf-b626-f70848c35ba8_RELAZIONE-ACCOMPAGNAMENTO-RETTORE-BILANCIO-PREVISIONE-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/1195798b-f6ef-43db-a390-46c9c3d92127_Verbale-Revisori-n.-19-2017-parere-bilancio-prev.-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Consuntivo-Finanziario-DM-19_Entrate-e-Uscite.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-Collegio-dei-Revisori-bilancio-2019-.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-del-Revisori-al-bilancio-previsione_a.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/budget-economico-triennale-2018-2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione_rettore_bilancio_preventivo_2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Nota-tecnica-illustrativa-Bilancio-2019-2021_a.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/prospetto-siope-entrate.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/130/f40ebad5-5e69-4e64-aa05-1bbef7c89070_riclassificato%20DI%20394-2017%20ENTRATE.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2017-Bilancio-di-previsione-Finanziario.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-Bilancio-Unico-2021_Collegio-Revisori-dei-Conti.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/4-budget-triennale-investimenti-2020-2022.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/budget_2021-2023.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/RICLASSIFICATO-DI-394-ENTRATE.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/a90aac4e-b618-4b8d-ac2a-6eefc9bde8bd_5-bilancio-previsione-di-cassa-2020-Entrate.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-accompagnamento-Rettore-bilancio-previsione-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/06.-Relazione-Revisori-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Nota_illustrativa_budget_2022-2024_per-pubblicazione-sito-ateneo.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/BUDGET-INVESTIMENTI-2019.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/130/0c556c51-291b-4e23-bdd1-bfe69d23ef5c_Nota%20illustrativa%20Bilancio%202018-2020%20_20_12_2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2017-Budget-triennale.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/prospetto-siope-spese-missioni-e-programmi.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-Revisori-bilancio-previsione-triennale-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2017-Budget-economico.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/conto-economico-consuntivo-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/RELAZIONE-GESTIONE-BILANCIO-CONSUNTIVO-2020-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/RELAZIONE-RETTORE-bilancio-di-previsione-2019-2021.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/BUDGET-INVESTIMENTI-2019_2021.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/3-budget-triennale-economico-2020-2022.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/BUDGET-ECONOMICO-2019.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/riclassificato-DI-394-2017-ENTRATE.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/1budget-economico-2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Nota-illustrativa-Bilancio-2018-2020-_20_12_2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2017-Budget-Investimenti.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/SP-consuntivo-2018_par.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/verbale-13_12-dicembre-2019.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/budget-investimenti-triennale-2018-2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2-budget-investimenti-2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-Collegio-Bilancio-UNITUS-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Rendiconto-finanziario-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/stato-patrimoniale-a-pareggio-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/budget-investimenti-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Relazione-del-rettore-al-bilancio-consuntivo-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/04.-Nota-integrativa-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/budget-economico-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/2021-BILANCIO-UNICO-DI-ATENEO.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/8-Nota_illustrativa_budget_2020-2022.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/BUDGET-ECONOMICO-TRIENNALE-2019-2021.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/05.-RELAZIONE-RETTORE-consuntivo-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/rendiconto-finanziario-2018.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/6-bilancio-di-previsione-di-cassa-2020-Uscite-riclassificato-siope-missioni-programmi.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/02.-Conto-economico-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/Verbale-del-Collegio-dei-Revisori-n.-4-del-20-aprile-2021-e-allegata-relazione-al-bilancio-unico-2020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/NOTA-INTEGRATIVA-consuntivo-2018_OKpdf.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/RICLASSIFICATO-DI-394-USCITE.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/08/BILANCIO-UNICO-DI-ATENEO-ESERCIZIO-2019-compressed.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/04/Corsi-di-Laurea-UNITUS-Tecnico-esperto-nella-gestione-sostenibile-dei-sistemi-zootecnici.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/03/Corsi-di-Laurea-UNITUS-Sport-Wellness-and-motor-activity-in-natural-environment.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/06/Corsi-di-Laurea-UNITUS-Tecniche-per-la-bioedilizia.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/11/Corsi-di-Laurea-UNITUS-Sustainable-management-of-forests-and-green-space.pdf",
+      "https://www.unitus.it/wp-content/uploads/2024/02/Linee-guida-con-allegati_2023.24-2.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/0df5c084-4334-46af-8e6e-f0fc7ba971c1_Catalogo-Citizen-Edu-Rome-tech_compressed.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/e87b28b0-9af3-4e24-8ad4-de648cf573bc_Catalogo-Citizen-Edu-Agritech_compressed.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/93edf27a-7483-4d38-ab79-53f08cac4cb8_Catalogo-Citizen-Edu-Biodiversita_compressed.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/05/Corsi-di-Laurea-UNITUS-Natural-and-Environmental-Sciences.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/03/Corsi-di-Laurea-UNITUS-Environmental-Biological-Science.pdf",
+      "https://www.unitus.it/wp-content/uploads/2025/07/Conservazione-e-restauro-dellambiente-e-delle-foreste-2.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Prot.849%20del%2017.01.2021-UNITUS_%20convenzione%20firmata-signed(1)(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub4-16-36-1-10.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/CLIL%20conference%20in%20Viterbo_programme_final%20(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Prot.%20850%20del%2017.01.2021-Convenzione%20Paolo%20III%20Canino%20VT-signed-signed(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub4-16-36-11-21-7-11.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/65d55e91-e622-4cb4-b81f-7cb0af7e3f34_PROT%20675-Convenzione%20Casagrande%20Cesi%20(TR)-signed.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Prot.%20852%20del%2017.01.20221-FIRMATO_FANELLI%20SAMUELE%20-%20TFA%20SOSTEGNO-signed.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/5e6fa9ea-c9dc-47d3-be67-b41c1caa2298_Prot.%201524%20Convenzione%20Tirocinio-signed%20_SIGNED.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub1.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Accordo%20Labform%20-%20Istituto%20Stendhal%20per%20CLIL%202020.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/REPORT%20CRS_S.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/CSU.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub4-16-36-11-21-1-6.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/3%20-CPIA-UNITUS%202016.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/1%20-DR%20465-2015%20%20Istituzione%20LABFORM.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/AVVISO%20ISCRIZIONE%20LABFORM%20PER%20CONCORSO%20A%20CATTEDRA(3)-1.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/4-%20Protocollo_di_Intesa_Polo_Territoriale_Formatori_.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Dalla%20Chiesa%202017.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Accordo%20LabForm%20-%20Istituto%20Stendhal-%20Corsi%20di%20lingua%20inglese.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Paolo%20Savi%202017.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/1642078639_SEGNATURA_1642073.LOTTI_Massa_m.ma_(GR).pdf%20(2)-signed.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/AVVISO%20PER%20ALBO%20DOCENZE.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub4-Copertina.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Trailab.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Evento1.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/df8307eb-451f-461e-b8e1-4abe5f1f167b_5-PROTOCOLLO%20CRSS%20Progetto%20sezione%20CPIA%20FOTI.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Evento3.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/70edad7f-8f8c-48ae-9513-dcfe11cfc5aa_Programma%20Formare%20al%20Cambiamento.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/3-Modulo%20candidatura%20Albo.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Accordo%20Labform-%20Istituto%20Stendhal%20Didattica%20Inclusiva2020.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Convenzione%20IC%20Pietro%20Aldi%20-%20Manciano%20(GR).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Prot.%201238-Convenzione%20DANTE%20ALIGHIERI%20CIVITA%20C%20VT-signed-signed(1)(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/2-convenzione_UNITUS_INDIRE_2015.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Regolamento%20LabForm.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Dispsoto%20n.%203-2021%20ALBO%20incarichi%20docenza%20LabForm%20Scad.%2030.12.2021%20ore%2018.00-signed.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/ACCORDO_UNIVERSITA_canevari_2016.doc%20(4).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub2.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/prot.1244%20Convenzione_DD_SIANI_-MUGNANO_(NA)%20(1)-signed(1)(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Piano%20triennale.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub4-2-37-1-15.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Accordo%20%20Labform%20-Istituto%20Stendhal%20per%20CLIL%202017.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Decreto%20Ministeriale%20n.%20108%20del%2028%20aprile%202022.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Prot.%201242_Convenzione%20ICForum%20Novum%20-Magliano%20Sabina%20(RI)%20(1)-signed(1).pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Pub3.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Evento2.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/1002/Disposto%20del%2022.12.2022%20n.%20150-%20Albo%20labForm.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/09/MODconvenzione-scuole-per-PCTO.pdf",
+      "https://www.unitus.it/wp-content/uploads/2025/07/Scienze-agrarie-e-ambientali-LT-2.pdf",
+      "https://www.unitus.it/wp-content/uploads/2026/03/AGRICULTURE-AND-ENVIRONMENTAL-SCIENCES.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/03/Corsi-di-Laurea-UNITUS-Landscape-Architecture.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/2172bee6-8c66-4f11-a842-75d4557f022c_Evento%20speciale%20TRAVERTINI%20DELLE%20SORGENTI%2029%20sett.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Programma_AttivitaPerScuole_Unitus-NET.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/comunicato-24-novembre-2020-SCIENZA-INSIEME.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/UNITUS%20Programma%20Notte%20NET%202023.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Brochure-Programma-FESTIVAL-DELLA-SCIENZA-2021-13.09.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Brochure-Programma-FESTIVAL-2019-WEB-1-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Notte-Ricercatori-2019-UB-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/PROGRAMMA-Festival-della-Scienza-2017-WEB-Versione-2-1.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/11395/UNITUS%20Notte%20NET%202022v23092022.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Festival-della-Scienza-2017-LocandinaLast-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Giornata-sostenibilita_programma.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/Evento%20speciale%20MOSTRA%2027%20sett.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/3254/ULTIMO%20Manifesto%20nazionale%20ERN17%20-%20VITERBO-1.compressed%20(1).pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/bfd78000-b622-448c-a7ae-9e19c701d6eb_PROGRAMMA-Festival-della-Scienza-2018-WEB-20-9-2018-ridotto-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/ConferenzaUnitusNET_27112020conprogramma.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/156f4228-6d08-4943-b5e0-ff0e6b2c6353_Brochure%20Programma%20-%20FESTIVAL%20DELLA%20SCIENZA%20%202023.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/NOTA-STAMPA-NET2023-25Sett2023.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/d42ba9d9-0f9f-4be7-b743-999ceaeb10db_RelazioneFestivadellaScienza2018perFondazioneCarivit-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Locandina_conPROGRAMMA_Festival-della-Scienza_31-luglio-2017.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Programma_AttivitaPerTutti_Unitus-NET.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Cs_Frascati_Scienza_eventi_enti_180917-2-1.pdf",
+      "https://old.unitus.it/public/platforms/1/cke_contents/11395/b23facb2-7873-476b-9bfd-6c47e2dfddd8_Evento%20speciale%20FARMING%20FUTURE%2029%20sett.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Programma-Notte-Europea-dei-Ricercatori-2019-WEB-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/NET_Brochure-A4_2021_DEFDEF.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/E_NET_Brochure-A4_FINALE_31072020.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Brochure-Programma-FESTIVAL-DELLA-SCIENZA-2022-Last1.pdf",
+      "https://www.unitus.it/public/platforms/1/cke_contents/3254/ULTIMO%20Programma%20Notte%20Europea%20dei%20Ricercatori%202017-2.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Festival-della-Scienza-2017-ProgrammaAnteprimaLast-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/UNITUS-Notte-NET-2022v23092022.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/NET_Programma-TREKKING-GIUGNO_2021_DEF.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Comunicato-stampa-Al-via-ScienzaInsieme-Roma-14-settembre-2018_VT-1-3-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/ULTIMO-BUONO-Locandina-PROGRAMMA-A3-Festival-della-Scienza-19-9-2018-1.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/Programma-FESTIVAL-della-Scienza-e-della-Ricerca-2020_def.pdf",
+      "https://www.unitus.it/wp-content/uploads/2023/10/FESTIVAL-SCIENZA-BILANCIO-1.pdf"
+    ],
+    "latest_year": 2026,
+    "all_years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ],
+    "evidence_level": "extensive",
+    "top_terms": [
+      [
+        "progetto",
+        3064
+      ],
+      [
+        "knowledge",
+        2603
+      ],
+      [
+        "ricerca",
+        2602
+      ],
+      [
+        "ateneo",
+        2563
+      ],
+      [
+        "general",
+        2422
+      ],
+      [
+        "attività",
+        1967
+      ],
+      [
+        "course",
+        1740
+      ],
+      [
+        "skills",
+        1710
+      ],
+      [
+        "learning",
+        1708
+      ],
+      [
+        "personale",
+        1699
+      ],
+      [
+        "costi",
+        1685
+      ],
+      [
+        "studenti",
+        1657
+      ],
+      [
+        "totale",
+        1547
+      ],
+      [
+        "understanding",
+        1513
+      ],
+      [
+        "cookie",
+        1501
+      ],
+      [
+        "altri",
+        1497
+      ],
+      [
+        "servizi",
+        1407
+      ],
+      [
+        "management",
+        1401
+      ],
+      [
+        "contributi",
+        1317
+      ],
+      [
+        "unitus",
+        1216
+      ],
+      [
+        "bilancio",
+        1136
+      ],
+      [
+        "international",
+        1122
+      ],
+      [
+        "study",
+        1082
+      ],
+      [
+        "proventi",
+        1073
+      ],
+      [
+        "quality",
+        1043
+      ],
+      [
+        "valore",
+        1030
+      ],
+      [
+        "altre",
+        1021
+      ],
+      [
+        "objectives",
+        1000
+      ],
+      [
+        "corso",
+        988
+      ],
+      [
+        "environmental",
+        986
+      ]
+    ],
+    "sdg_hits": {
+      "SDG3_Health": 241,
+      "SDG4_Education": 1291,
+      "SDG5_Gender": 328,
+      "SDG7_Energy": 171,
+      "SDG11_Cities": 668,
+      "SDG12_Consumption": 72,
+      "SDG13_Climate": 231,
+      "SDG16_Governance": 516
+    },
+    "text_length": 6330636,
+    "word_count": 812947
+  }
+]
